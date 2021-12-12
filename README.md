@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piroyuki0700
 - 👀 I’m interested in making a hydroponics system controled by the raspberry pi.
-- 🌱 I’m currently learning python3, javascript and the React framework.
+- 🌱 I’m currently learning python3, javascript, the React framework and ... how to use github at first (^\_^;).
 - 💞️ I'm going to develop some private system on my own.
 - 📫 There is no way to reach me yet.
 
